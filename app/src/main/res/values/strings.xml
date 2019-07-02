@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ruta ecuador</string>
+    <string name="name">Ruta  : </string>
+    <string name="origem">Origen : </string>
+    <string name="destino">Destino : </string>
+    <string name="compañia">Compañia de  trasnporte : </string>
+    <string name="Tiemporecorrido">Tiempo de recorrido</string>
+    <string name="h_course">Enter Course</string>
+    <string name="h_email">Enter Email</string>
+    <string name="h_phone">Enter Phone No.</string>
+    <string name="store">Store</string>
+    <string name="add">Add New Teacher</string>
+    <string name="mod">Modify</string>
+    <string name="inst_text">To Edit,\nTap on the Items from the List</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
